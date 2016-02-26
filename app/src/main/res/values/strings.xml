@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListActivities</string>
+
+        <string-array name="usefulStuff">
+            <item>Very useful</item>
+            <item>Not so useful</item>
+        </string-array>
+
+</resources>

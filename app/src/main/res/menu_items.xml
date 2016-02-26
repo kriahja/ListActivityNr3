@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+    <string-array name="usefulStuff">
+        <item>Very useful</item>
+        <item>Not so useful</item>
+    </string-array>
+    </resources>
